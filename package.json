@@ -1,0 +1,67 @@
+{
+  "name": "skitter-done",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-react-base": "^18.1.42",
+    "@syncfusion/ej2-react-calendars": "^18.1.44",
+    "@syncfusion/ej2-react-dropdowns": "^18.1.45",
+    "@syncfusion/ej2-react-schedule": "^18.1.44",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "babel-jest": "^24.9.0",
+    "collections": "^5.1.9",
+    "materialize-css": "^1.0.0-rc.2",
+    "react": "^16.13.1",
+    "react-calendar": "^3.0.1",
+    "react-dom": "^16.13.1",
+    "react-dropdown": "^1.7.0",
+    "react-modal": "^3.11.2",
+    "react-scripts": "^3.4.1",
+    "react-select": "^3.1.0",
+    "react-test-renderer": "^16.13.1",
+    "scheduler-library": "^1.2.2",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "jest"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-modal": "^3.10.5",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest": "^24.9.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-materialize": "^3.6.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "description": "A web app to help you manage your productivity between classes and homework!\r CS 319 – Spring 2020",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.linux.iastate.edu/Spting2020-CS319-GitProjects/g04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
